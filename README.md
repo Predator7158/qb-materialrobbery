@@ -1,17 +1,23 @@
 # qb-materialrobbery
-Simple Material robbery for QBCore
 
-# Dependencies:
-qb-core: https://github.com/qbcore-framework/qb-core
-qb-target: https://github.com/BerkieBb/qb-target
-qb-lock: https://github.com/M-Middy/qb-lock
+Simple Material robbery for QBCore
 
 I used mt-stealcopper as the Base
 
-Me - https://github.com/Predator7158
-Marttins (Creator of mt-stealcopper) - https://github.com/Marttins011
+[Me](https://github.com/Predator7158) 
 
-# Add to init.lua on qb-target:
+[Marttins (Creator of mt-stealcopper)](https://github.com/Marttins011)
+
+# Dependencies
+
+[qb-core](https://github.com/qbcore-framework/qb-core) 
+
+[qb-target](https://github.com/BerkieBb/qb-target) 
+
+[qb-lock](https://github.com/M-Middy/qb-lock)
+
+# Add this to qb-target init.lua
+
 ```
 	["materialsrob"] = {
         models = {
